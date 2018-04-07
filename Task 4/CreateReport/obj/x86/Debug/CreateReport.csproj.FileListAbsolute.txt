@@ -1,0 +1,100 @@
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\CreateReportCSharp.exe.config
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\CreateReportCSharp.exe
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\CreateReportCSharp.pdb
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Chart.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Design.Win.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Diagnostics.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Document.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Extensibility.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.ArsClient.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\Newtonsoft.Json.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Image.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Chart.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Design.Win.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Diagnostics.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Document.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Extensibility.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.ArsClient.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Image.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.xml
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Chart.v12.resources.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Design.Win.v12.resources.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Document.v12.resources.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Extensibility.v12.resources.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.v12.resources.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Win.v12.resources.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Export.Image.v12.resources.dll
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReport.csprojResolveAssemblyReference.cache
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\obj\x86\Debug\GrapeCity.ActiveReports.Samples.CreateReport.Properties.Resources.resources
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\obj\x86\Debug\GrapeCity.ActiveReports.Samples.CreateReport.ReportsForm.resources
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReport.csproj.GenerateResource.Cache
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReportCSharp.exe.licenses
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReport.csproj.CoreCompileInputs.cache
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReportCSharp.exe
+C:\Users\потеющий старичок\Documents\GrapeCity Samples\ActiveReports 12\AR12Samples\Page Reports And RDL Reports\API\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReportCSharp.pdb
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\CreateReportCSharp.exe.config
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\CreateReportCSharp.exe
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\CreateReportCSharp.pdb
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Chart.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Design.Win.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Diagnostics.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Document.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Extensibility.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.ArsClient.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\Newtonsoft.Json.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Image.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Chart.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Design.Win.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Diagnostics.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Document.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Extensibility.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Viewer.Win.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.ArsClient.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Image.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Image.Unsafe.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Rdf.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Chart.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Design.Win.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Document.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Extensibility.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Viewer.Win.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Export.Image.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReport.csprojResolveAssemblyReference.cache
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\obj\x86\Debug\GrapeCity.ActiveReports.Samples.CreateReport.Properties.Resources.resources
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\obj\x86\Debug\GrapeCity.ActiveReports.Samples.CreateReport.ReportsForm.resources
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReport.csproj.GenerateResource.Cache
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReportCSharp.exe.licenses
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReport.csproj.CoreCompileInputs.cache
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReportCSharp.exe
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\obj\x86\Debug\CreateReportCSharp.pdb
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Document.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Excel.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Html.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Word.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Xml.v12.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Document.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Excel.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Html.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Pdf.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Word.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\GrapeCity.ActiveReports.Export.Xml.v12.xml
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Export.Excel.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Export.Html.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Export.Pdf.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Export.Word.v12.resources.dll
+C:\Users\потеющий старичок\source\repos\CreateReport\C#\CreateReport\bin\Debug\zh-CN\GrapeCity.ActiveReports.Export.Xml.v12.resources.dll
